@@ -1,5 +1,9 @@
 ### Hi there 👋
+## 👋 Hi, I'm Pritam Basu. 
 
+I'm a technophile 👨‍💻  based in India. 
+
+I completed my Bachelors in Computer Science at <a href="https://vit.ac.in/" target="_blank">VIT, Chennai</a>.
 <!--
 **pritambasu/pritambasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
